@@ -1,9 +1,7 @@
-
 <h1 align="center">Hi 👋, I'm Krish Maharjan</h1>
 <h3 align="center">A Passionate Full-Stack Web Developer from Nepal</h3>
 
 <p align="left">I'm dedicated to crafting exceptional web experiences and solving real-world problems through technology. With a strong foundation in both frontend and backend development, I love turning ideas into functional, user-friendly applications.</p>
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diretrix-git&label=Profile%20views&color=0e75b6&style=flat" alt="diretrix-git" /> </p>
 
@@ -23,8 +21,10 @@
 <a href="https://dev.to/krishmaharjan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="krishmaharjan" height="30" width="40" /></a>
 <a href="https://twitter.com/krish6430" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="krish6430" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/krish-maharjan-7b6884194" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishmaharjan" height="30" width="40" /></a>
+<a href="https://codesandbox.io/u/diretrix-git" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="diretrix-git" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100010262055194" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="krish maharjan" height="30" width="40" /></a>
 <a href="https://instagram.com/_kiyo_106" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_kiyo_106" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/diretrix-git/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="diretrix-git" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
