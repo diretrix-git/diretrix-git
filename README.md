@@ -15,8 +15,8 @@
 
 ---
 
-- 🔭 I'm currently working on **[Pranil Store](https://github.com/diretrix-git/Pranil-Store)** — a production-ready B2B multi-vendor marketplace built with MERN + TypeScript
-- 🌱 I'm currently leveling up in **TypeScript, Redis, BullMQ & system design**
+- 🔭 I'm working on **[Pranil Store](https://github.com/diretrix-git/Pranil-Store)**, a MERN + TypeScript commerce project with product, order, and buyer/admin workflows. [Order implementation](https://github.com/diretrix-git/Pranil-Store/blob/84641380c55b4ae8b8f70fdddf9c7f6977d4e516/server/controllers/orders.ts#L12-L78). See its documented limitations before assessing readiness.
+- 🌱 My learning interests include **TypeScript, Redis, BullMQ & system design**. These interests do not imply that every project implements them. Pranil Store currently sends email through direct asynchronous calls, without a BullMQ worker. [Email implementation](https://github.com/diretrix-git/Pranil-Store/blob/84641380c55b4ae8b8f70fdddf9c7f6977d4e516/server/queues/emailQueue.ts#L22-L43).
 - 💬 Ask me about **MERN Stack, TypeScript, REST APIs**
 - 📫 Reach me at **mhrkrish6@gmail.com**
 
